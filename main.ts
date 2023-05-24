@@ -8,5 +8,5 @@ if (número == 0) {
     basic.showNumber(0)
 }
 if (número < 0) {
-    music.playMelody("- - - C5 - - - - ", 250)
+    music.playMelody("D C D E D C D E ", 250)
 }
